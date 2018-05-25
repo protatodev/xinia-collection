@@ -1,5 +1,12 @@
 .title {
   text-align: center;
+  color: white;
+  background-image: url("https://www.travelingmom.com/wp-content/uploads/2017/05/Disney-World-castle.jpg");
+  background-size: 100% 100%;
+}
+
+.title h2 {
+  font-size: 36px;
 }
 
 body {
@@ -11,6 +18,11 @@ body {
 }
 
 #alice {
+  height: 200px;
+  width: 200px;
+}
+
+#arial_classic {
   height: 200px;
   width: 200px;
 }
